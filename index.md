@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Portfolio de Sylvain P.
 ---
 
 # Bienvenue sur mon PortFolio
