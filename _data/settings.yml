@@ -15,11 +15,9 @@ menu:
 projects:
 - {name: 'Technicien ERP VIF chez Viandes de Bresse',   url: 'vif'}
 - {name: 'BTS SIO SISR',   url: 'sio'}
-- {name: 'Classes Préparatoires aux Grandes Écoles', url: 'cpge'}
 - {name: 'Kotlin Android',  url: 'kotlin'}
 - {name: 'Traversée du Desert',  url: 'desert'}
-
-
+- {name: 'Classes Préparatoires aux Grandes Écoles', url: 'cpge'}
 #-------------------------------
 # Contact Section
 
