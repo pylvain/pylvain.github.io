@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-site:
-  title: Portfolio de Sylvain
+
+title: Portfolio de Sylvain
 
 menu:
 - {name: 'Portfolio', url: ''}
