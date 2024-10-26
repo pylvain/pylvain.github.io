@@ -1,6 +1,8 @@
 #-------------------------------
 # General Site Settings
 
+title: Portfolio de Sylvain P.
+
 menu:
 - {name: 'Portfolio', url: ''}
 #- {name: 'Blog',     url: 'blog'}
