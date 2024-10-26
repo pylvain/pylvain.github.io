@@ -2,4 +2,4 @@
 
 C'est pas si mal !
 
-![Goodenough](/assets/projects/sio/goodenough.png)
+![Goodenough](/assets/img/projects/sio/goodenough.png)
