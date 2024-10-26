@@ -4,18 +4,18 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+- {name: 'À Propros',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Technicien ERP VIF',   url: 'vif'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Technicien ERP VIF chez Viandes de Bresse',   url: 'vif'}
+- {name: 'BTS SIO SISR',   url: 'sio'}
+- {name: 'Classes Préparatoires aux Grandes Écoles', url: 'cpge'}
+- {name: 'Traversée du Desert',  url: 'desert'}
+- {name: 'Kotlin Android',  url: 'kotlin'}
 
 #-------------------------------
 # Contact Section
