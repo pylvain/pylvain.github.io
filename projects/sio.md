@@ -2,4 +2,4 @@
 
 C'est pas si mal !
 
-{% image="projects/sio/goodenough.png" %}
+![Goodenough](/assets/projects/sio/goodenough.png)
