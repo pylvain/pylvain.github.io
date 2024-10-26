@@ -2,4 +2,4 @@
 
 C'est pas si mal !
 
-{% include image.html image="projects/sio/goodenough.png" %}
+{% image="projects/sio/goodenough.png" %}
