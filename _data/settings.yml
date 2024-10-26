@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
+- {name: 'Portfolio', url: ''}
+#- {name: 'Blog',     url: 'blog'}
 - {name: 'À Propros',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
